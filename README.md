@@ -1,1 +1,3 @@
-![Imagen de Pirata](pirata.gif)
+<p align="center">
+  <img src="pirata.gif" alt="Imagen de Pirata"/>
+</p>
